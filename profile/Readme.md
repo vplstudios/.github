@@ -5,16 +5,16 @@
 <br />
 <div align="center">
   <a href="https://discord.gg/sQMqkVH">
-    <img src="https://media.discordapp.net/attachments/1016123993603965029/1041824198844227644/Falido_Store.png" alt="Logo" width="110" height="110">
+    <img src="https://media.discordapp.net/attachments/1061825535690424320/1199558368273104956/BPC-Google.png" alt="Logo" width="110" height="110">
   </a>
 
   <h3 align="center">Blueprint Co</h3>
 
   <p align="center">
-    <a href="https://discord.gg/sQMqkVH"><strong>Explore the project »</strong></a>
+    <a href="https://discord.gg/sQMqkVH"><strong>Explore our projects »</strong></a>
     <br />
     <br />
-<h3 align="left">🖐️ Sobre nós </h3>
+<h3 align="left">🖐️ About Us </h3>
 <a href="https://discord.gg/sQMqkVH">
     <img src="https://media.discordapp.net/attachments/1016123993603965029/1046547980364288150/FalidoTeam.png" alt="Banner" width="940" height="495">
   </a>
@@ -24,14 +24,10 @@
   </p>
 </div>
 
-A Blueprint Co é uma organização que desde 2020 desenvolve produtos para a comunidade FiveM; Nosso objetivo é Desenvolver e oferecer sempre o melhor para nossos clientes!
-
-A nossa equipe vai a fundo para desenvolver soluções, a melhor parte é a satisfação do cliente.
-
 
 <!-- US -->
 <h3 align="left">🇺🇸</h3>
-The Blueprint Co is an organization that since 2020 develops products for the FiveM community; Our goal is to develop and always offer the best to our customers!
+The Blueprint Co is an organization that since 2020 developed products for FiveM Metaverse and a thousand of other projects; We no longer work with Metaverse things!
 
 Our team goes deep to develop solutions, the best part is customer satisfaction.
 
@@ -39,9 +35,9 @@ Our team goes deep to develop solutions, the best part is customer satisfaction.
 <!-- CONTACT -->
 ## Contact
 
-E-mail - falidostore@gmail.com
+E-mail - contact@blueprintco.store
 
-Discord: [discord.gg/falidostore](https://discord.gg/sQMqkVH)
+Discord: [discord.gg](https://discord.gg/sQMqkVH)
 
 CEO & Dev: [https://github.com/flvdev](https://github.com/flvdev)
 
