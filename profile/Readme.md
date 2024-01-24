@@ -39,7 +39,7 @@ E-mail - contact@blueprintco.store
 
 Discord: [discord.gg](https://discord.gg/sQMqkVH)
 
-CEO & Dev: [https://github.com/flvdev](https://github.com/flvdev)
+CTO & Director: [https://github.com/flvdev](https://github.com/flvdev)
 
 
 <!-- LICENSE -->
